@@ -13,7 +13,7 @@ isTop: true
 * Python机器学习与数据分析
 * solidity智能合约开发
 * 深度学习
-*  [Click to see more...](https://yushen611.github.io/post/hello/)   
+*  ...  
 
 <!-- more -->
 📱联系方式
@@ -25,26 +25,24 @@ Email: ywy_hfut@163.com
 👋👋👋👋目录
 ## Golang后端开发👇
 
-📝  [golang基础教程](https://yushen611.github.io/post/goBE-golang-basic/)   
-📝  [consul+grpc最佳实践](https://yushen611.github.io/goBE-consul&grpc/)   
-📝  [登录功能的设计-JWT的各种使用](https://yushen611.github.io/post/goBE-jwt/)   
-📝  [分布式锁-基于redis或基于mysql的go语言实现](https://yushen611.github.io/post/goBE-fen-bu-shi-suo/)   
-📝  [go语言中的消息队列(MQ)](https://yushen611.github.io/post/goBE-MQ-basic/)   
+📝  [golang基础教程](https://github.com/yushen611/blogs/blob/main/develop/golang/goBE-golang-basic.md)   
+📝  [consul+grpc最佳实践](https://github.com/yushen611/blogs/blob/main/develop/golang/goBE-consul%26grpc.md)   
+📝  [登录功能的设计-JWT的各种使用](https://github.com/yushen611/blogs/blob/main/develop/golang/goBE-jwt.md)   
+📝  [分布式锁-基于redis或基于mysql的go语言实现](https://github.com/yushen611/blogs/blob/main/develop/golang/goBE-fen-bu-shi-suo.md)   
+📝  [go语言中的消息队列(MQ)](https://github.com/yushen611/blogs/blob/main/develop/golang/goBE-MQ-basic.md)   
 
 ## Python机器学习与数据分析👇
-📝  [python基础教程](https://yushen611.github.io/post/python-basic/)   
-📝  [python数据分析与机器学习](https://yushen611.github.io/post/python-DA-ML/)   
+📝  [python基础教程](https://github.com/yushen611/blogs/blob/main/dl/python-basic.md)   
+📝  [python数据分析与机器学习](https://github.com/yushen611/blogs/blob/main/dl/python-DA-ML.md)   
 
 ## solidity智能合约开发👇
-📝  [solidity-helloworld-真实上链-踩坑实录](https://yushen611.github.io/post/solidity_helloworld/)   
+📝  [solidity-helloworld-真实上链-踩坑实录](https://github.com/yushen611/blogs/blob/main/develop/blockchain/solidity_helloworld.md)   
 
 ## 深度学习👇
 
-📝  [01-gnn-pyg基础](https://yushen611.github.io/post/DL-pyg-basic/)   
-📝  [02-gnn-tgn](https://yushen611.github.io/post/DL-pyg-tgn/)   
+📝  [01-gnn-pyg基础](https://github.com/yushen611/blogs/blob/main/dl/DL-pyg-basic.md)   
+📝  [02-gnn-tgn](https://github.com/yushen611/blogs/blob/main/dl/DL-pyg-tgn.md)   
 
 ## 其他博客👇
 
-📝  [nginx+rtmp流媒体服务器搭建](https://yushen611.github.io/post/other-nginx&rtmp/)   
-
-📝  [mysql八股](https://yushen611.github.io/post/other-mysql-basic/)   
+📝  [nginx+rtmp流媒体服务器搭建](https://github.com/yushen611/blogs/blob/main/develop/other/other-nginx%26rtmp.md)   
