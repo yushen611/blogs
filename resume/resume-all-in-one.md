@@ -49,6 +49,20 @@
   - Authentication and Authorization: Utilized JWT for authentication and authorization, achieving stateless authentication on the server side.
   - Preventing Cache Avalanche: Implemented distributed mutual exclusion locks using Redis to prevent cache avalanches.
 
+## Tiktok(Singapore)
+
+* **title**
+
+  - **Period:** 2023.12-2024.06
+
+  - **Company**: Tiktok(Singapore)
+
+  - **Position:** Golang Backend
+
+* **content**
+  * Implemented over 10 atomic services utilizing Function as a Service (FaaS) tools similar to AWS Lambda.
+  * Developed self-recover workflows for ingress and node resource recovery, enhancing the uptime of push and pull stream nodes to over 90%.
+
 # Project Experience
 
 ## SOFTWARE

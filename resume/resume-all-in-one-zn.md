@@ -47,6 +47,20 @@
   - 身份认证与授权：使用JWT进行身份认证与授权，实现了服务端的无状态认证。
   - 防止缓存雪崩：利用Redis实现分布式互斥锁，有效防止缓存雪崩。
 
+## Tiktok(Singapore)
+
+* **title**
+
+  - **Period:** 2023.12-2024.06
+
+  - **Company**: Tiktok(Singapore)
+
+  - **Position:** Golang Backend
+
+* **content**
+  * 实现了超过10种原子服务，通过使用类似AWS Lambda的功能即服务（FaaS）工具。
+  * 构建了自愈工作流程，用于ingress和节点资源的恢复，将推流和拉流节点的在线率提高到90%以上。
+
 # 项目经历
 
 ## 项目经历:开发
