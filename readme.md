@@ -7,22 +7,18 @@ hideInList: false
 feature: 
 isTop: true
 ---
-📖 点击本文进入博客目录
-🙏有任何问题欢迎联系我或在对应博客下方留言。
-* Golang后端开发
-* Python机器学习与数据分析
-* solidity智能合约开发
-* 深度学习
-*  ...  
 
-<!-- more -->
-📱联系方式
-[Github: https://github.com/yushen611](https://github.com/yushen611) 
-Email: ywy_hfut@163.com 
-
-<!-- [主题网站](https://open.gridea.dev/themes) -->
 
 👋👋👋👋目录
+
+# 关于作者👇
+
+📝  [about me](https://github.com/yushen611/blogs/blob/main/about/about.md) 
+
+📝  [news](https://github.com/yushen611/blogs/blob/main/about/news.md) 
+
+📝  [resume](https://github.com/yushen611/blogs/blob/main/resume/resume-all-in-one.md) | [简历](https://github.com/yushen611/blogs/blob/main/resume/resume-all-in-one-zn.md)
+
 ## Golang后端开发👇
 
 📝  [golang基础教程](https://github.com/yushen611/blogs/blob/main/develop/golang/goBE-golang-basic.md)   
